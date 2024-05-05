@@ -10,6 +10,7 @@ My name is Dmitry and there are my skills:
   * https://github.com/DmitryGalich/flies_project
 * Qt Widgets
   * https://github.com/DmitryGalich/histogram
+  * https://github.com/DmitryGalich/QuantProgram
 * Boost Beast
   * https://github.com/DmitryGalich/network_dummy/tree/main/modules/network_module/server
 * CMake
