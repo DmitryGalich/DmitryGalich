@@ -1,24 +1,20 @@
 ### Hi there 👋
 
-C++
-Qt Quick / Widgets
-JS
-CMake
-GTests
-Valgrind
-Docker / Compose
-Golang(basic)
-Flutter / Dart(basic)
-Keycloak(basic)
-OIDC(basic)
-Nginx(basic)
-Postgresql(weak skill)
-Rust(weak skill)
-
-<!--
-**DmitryGalich/DmitryGalich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Dmitry and there are my skills:
+* C++
+* Qt Quick / Widgets
+* JS
+* CMake
+* GTests
+* Valgrind
+* Docker / Compose
+* Golang(basic)
+* Flutter / Dart(basic)
+* Keycloak(basic)
+* OIDC(basic)
+* Nginx(basic)
+* Postgresql(weak skill)
+* Rust(weak skill)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -28,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
