@@ -24,10 +24,14 @@ My name is Dmitry and there are my skills:
   * https://github.com/DmitryGalich/network_dummy/blob/main/.github/workflows/cmake.yml
 * Valgrind
 * Docker / Compose
+  * https://github.com/DmitryGalich/offline_project/blob/auth2-proxy/backend/docker-compose.yml
 * Golang(basic)
+  * https://github.com/DmitryGalich/offline_project/tree/first_microservice/backend/service_messenger
 * Flutter / Dart(basic)
-* Keycloak(basic)
-* OIDC(basic)
+  * https://github.com/DmitryGalich/offline_project/tree/first_microservice/frontend/lib
 * Nginx(basic)
+  * https://github.com/DmitryGalich/offline_project/blob/first_microservice/backend/gateway/gateway.conf
+* Keycloak(weak skill)
+* OIDC(weak skill)
 * Postgresql(weak skill)
 * Rust(weak skill)
