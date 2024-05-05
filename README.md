@@ -8,8 +8,8 @@ My name is Dmitry and there are my skills:
 * Boost Beast (https://github.com/DmitryGalich/network_dummy)
 * CMake (https://github.com/DmitryGalich/network_dummy/blob/main/third_party/google_test/CMakeLists.txt, https://github.com/DmitryGalich/network_dummy/blob/main/apps/server/server_console_app/CMakeLists.txt)
 * GTests (
-  ** https://github.com/DmitryGalich/network_dummy/blob/main/modules/filesystem_module/tests/filesystem_module_tests.cpp, 
-  ** https://github.com/DmitryGalich/network_dummy/blob/main/modules/network_module/tests/network_module_tests.cpp)
+  * https://github.com/DmitryGalich/network_dummy/blob/main/modules/filesystem_module/tests/filesystem_module_tests.cpp
+  * https://github.com/DmitryGalich/network_dummy/blob/main/modules/network_module/tests/network_module_tests.cpp)
 * Github Actions CI (https://github.com/DmitryGalich/network_dummy/blob/main/.github/workflows/cmake.yml)
 * Valgrind
 * Docker / Compose
