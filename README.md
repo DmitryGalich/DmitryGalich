@@ -4,6 +4,7 @@ My name is Dmitry and there are my skills:
 * C++
 * Qt Quick / Widgets
 * JS
+* Boost Beast
 * CMake
 * GTests
 * Valgrind
