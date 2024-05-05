@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+C++
+Qt Quick / Widgets
+JS
+CMake
+GTests
+Valgrind
+Docker / Compose
+Golang(basic)
+Flutter / Dart(basic)
+Keycloak(basic)
+OIDC(basic)
+Nginx(basic)
+Postgresql(weak skill)
+Rust(weak skill)
+
 <!--
 **DmitryGalich/DmitryGalich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
