@@ -2,6 +2,8 @@
 
 My name is Dmitry and there is my CV: https://github.com/DmitryGalich/cv/blob/main/CV_GalichDmitry.pdf
 
+I prefer to communicate via Telegram: https://t.me/dmitryGalich
+
 My skills:
 * C++
   * https://github.com/DmitryGalich/network_dummy
