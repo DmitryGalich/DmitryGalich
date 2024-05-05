@@ -4,7 +4,7 @@ My name is Dmitry and there are my skills:
 * C++
 * Multithreading ( , https://github.com/DmitryGalich/flies_project/blob/main/fly/fly.cpp)
 * Qt Quick (https://github.com/DmitryGalich/flies_project)
-* Qt Widgets ()
+* Qt Widgets (https://github.com/DmitryGalich/histogram)
 * Boost Beast (https://github.com/DmitryGalich/network_dummy)
 * CMake ()
 * GTests ()
