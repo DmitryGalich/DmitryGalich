@@ -6,6 +6,7 @@ My name is Dmitry and there are my skills:
 * Multithreading
   * https://github.com/DmitryGalich/network_dummy/blob/main/apps/server/server_console_app/server_console_app_main.cpp
   * https://github.com/DmitryGalich/flies_project/blob/main/fly/fly.cpp
+* Valgrind
 * Qt Quick
   * https://github.com/DmitryGalich/flies_project
 * Qt Widgets
@@ -22,7 +23,6 @@ My name is Dmitry and there are my skills:
   * https://github.com/DmitryGalich/network_dummy/blob/main/modules/network_module/tests/network_module_tests.cpp
 * Github Actions CI
   * https://github.com/DmitryGalich/network_dummy/blob/main/.github/workflows/cmake.yml
-* Valgrind
 * Docker / Compose
   * https://github.com/DmitryGalich/offline_project/blob/auth2-proxy/backend/docker-compose.yml
 * Golang(basic)
