@@ -8,6 +8,7 @@ My skills:
 * C++
   * https://github.com/DmitryGalich/network_dummy
 * Multithreading
+  * https://github.com/DmitryGalich/network_dummy/blob/main/modules/network_module/client/client.cpp
   * https://github.com/DmitryGalich/network_dummy/blob/main/apps/server/server_console_app/server_console_app_main.cpp
   * https://github.com/DmitryGalich/flies_project/blob/main/fly/fly.cpp
 * Qt Quick
