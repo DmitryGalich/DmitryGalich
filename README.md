@@ -8,6 +8,8 @@ My skills:
 * C++
   * https://github.com/DmitryGalich/network_dummy
   * https://github.com/DmitryGalich/simple_network
+* Lock-free multithreading
+  * https://github.com/DmitryGalich/ring_buffer_task/blob/main/main.cpp
 * Multithreading
   * https://github.com/DmitryGalich/network_dummy/blob/main/modules/network_module/client/client.cpp
   * https://github.com/DmitryGalich/network_dummy/blob/main/apps/server/server_console_app/server_console_app_main.cpp
