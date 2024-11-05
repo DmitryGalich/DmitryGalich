@@ -2,8 +2,8 @@
 
 My name is Dmitry and there is my CV: https://github.com/DmitryGalich/cv/blob/main/CV_GalichDmitry.pdf
 
-HeadHunter: https://krasnodar.hh.ru/applicant/resumes/view?resume=874f2445ff045ef1c90039ed1f6e53746a7058
-LinkedIn: https://www.linkedin.com/in/dmitry-galich-910191195/ 
+* HeadHunter: https://krasnodar.hh.ru/applicant/resumes/view?resume=874f2445ff045ef1c90039ed1f6e53746a7058
+* LinkedIn: https://www.linkedin.com/in/dmitry-galich-910191195/ 
 
 I prefer to communicate via Telegram: https://t.me/dmitryGalich
 
