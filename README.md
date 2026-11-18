@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My name is Dmitry and there is my CV: https://github.com/DmitryGalich/cv/blob/main/CV_GalichDmitry.pdf
-
 * HeadHunter: https://krasnodar.hh.ru/applicant/resumes/view?resume=874f2445ff045ef1c90039ed1f6e53746a7058
 * LinkedIn: https://www.linkedin.com/in/dmitry-galich-910191195/ 
 
@@ -36,13 +34,3 @@ My skills:
   * https://github.com/DmitryGalich/network_dummy/blob/main/.github/workflows/cmake.yml
 * Docker / Compose
   * https://github.com/DmitryGalich/offline_project/blob/auth2-proxy/backend/docker-compose.yml
-* Golang(basic)
-  * https://github.com/DmitryGalich/offline_project/tree/first_microservice/backend/service_messenger
-* Flutter / Dart(basic)
-  * https://github.com/DmitryGalich/offline_project/tree/first_microservice/frontend/lib
-* Nginx(basic)
-  * https://github.com/DmitryGalich/offline_project/blob/first_microservice/backend/gateway/gateway.conf
-* Keycloak(weak skill)
-* OIDC(weak skill)
-* Postgresql(weak skill)
-* Rust(weak skill)
