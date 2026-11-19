@@ -6,7 +6,7 @@
 I prefer to communicate via Telegram: https://t.me/dmitryGalich
 
 My skills:
-* Docker + LLama + Cuda + Local LLM
+* Docker + Langchain + LLama + Cuda + Local LLM
   * https://github.com/DmitryGalich/assistant
 * C++
   * https://github.com/DmitryGalich/network_dummy
